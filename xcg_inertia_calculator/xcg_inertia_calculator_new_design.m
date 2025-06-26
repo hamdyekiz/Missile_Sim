@@ -1,4 +1,3 @@
-% yeni olanın verileri burada
 clear; clc; close all;
 diameter_L = 0.165;                             % m
 Sref = pi*diameter_L^2/4
